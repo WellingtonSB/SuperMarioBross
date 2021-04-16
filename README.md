@@ -9,7 +9,7 @@
 ## Descrição do projeto 
 
 <p align="justify">
- Space Wars Um jogo para praticar o aprendizado de POO(java) e logica de progrmação.
+Mario Brooss é um jogo feito totalmente com java. Feito com a intenção de consolidar conhecimento da linguagem.
 </p>
 
 ## Layout  inicio
